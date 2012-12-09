@@ -1,3 +1,7 @@
+#*** This isn't a real repo ***
+It's just a mirage. I set it up to provide some context and the possibility to replicate my jasmine-jquery issue ([#99](https://github.com/velesin/jasmine-jquery/issues/99)).
+
+
 # Purify
 
 `purify` is a Google Chrome extension which helps you to find quotes within an article. 
